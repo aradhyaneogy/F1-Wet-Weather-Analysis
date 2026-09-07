@@ -102,37 +102,6 @@ Project Structure
 
 f1-wet-weather-analysis/
 
-│ 
-
-├── README.md
-
-├── python/
-
-│   └── F1_Wet_Weather_Analysis.ipynb
-
-├── sql/
-
-│   └── analysis_queries.sql
-
-├── powerbi/
-
-│   └── F1_Wet_Weather_Analysis.pbix
-
-├── data/
-
-│   ├── races_powerbi.csv
-
-│   └── strategy_powerbi.csv
-
-└── outputs/
-
-  ├── rainfall_vs_strategy.png
-    
-  ├── rainfall_vs_position_change.png
-    
-  ├── position_gains.png
-  
-  └── top_driver_gains.png
     
 
 Limitations
