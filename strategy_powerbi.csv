@@ -1,0 +1,31 @@
+Year,Race,Driver,Team,Grid_Position,Finish_Position,Position_Change,Tyre_Changes,First_Intermediate_Lap,First_Wet_Lap,Intermediate_Laps,Wet_Laps,Total_Laps,Intermediate_Share,Wet_Share
+2019,German GP,Carlos Sainz,McLaren,7,5,2,3,4.0,1.0,61,3,64,0.953125,0.046875
+2019,German GP,Daniil Kvyat,Toro Rosso,14,3,11,4,4.0,1.0,39,3,64,0.609375,0.046875
+2019,German GP,Lance Stroll,Racing Point,15,4,11,5,8.0,1.0,34,7,64,0.53125,0.109375
+2019,German GP,Lewis Hamilton,Mercedes,1,9,-8,6,4.0,1.0,43,3,64,0.671875,0.046875
+2019,German GP,Max Verstappen,Red Bull,2,1,1,5,4.0,1.0,39,3,64,0.609375,0.046875
+2019,German GP,Sebastian Vettel,Ferrari,20,2,18,5,3.0,1.0,40,2,64,0.625,0.03125
+2021,Emilia-Romagna GP,Charles Leclerc,Ferrari,4,4,0,2,1.0,,28,0,63,0.4444444444444444,0.0
+2021,Emilia-Romagna GP,Kimi Raikkonen,Alfa Romeo,16,13,3,3,1.0,,26,0,63,0.4126984126984127,0.0
+2021,Emilia-Romagna GP,Lando Norris,McLaren,7,3,4,2,1.0,,28,0,63,0.4444444444444444,0.0
+2021,Emilia-Romagna GP,Lewis Hamilton,Mercedes,1,2,-1,4,1.0,,28,0,63,0.4444444444444444,0.0
+2021,Emilia-Romagna GP,Max Verstappen,Red Bull,3,1,2,2,1.0,,27,0,63,0.42857142857142855,0.0
+2021,Emilia-Romagna GP,Pierre Gasly,AlphaTauri,5,5,0,4,15.0,1.0,12,14,63,0.19047619047619047,0.2222222222222222
+2023,Dutch GP,Alexander Albon,Williams,4,8,-4,4,62.0,,11,0,72,0.1527777777777778,0.0
+2023,Dutch GP,Carlos Sainz,Ferrari,6,5,1,5,3.0,,20,0,72,0.2777777777777778,0.0
+2023,Dutch GP,Fernando Alonso,Aston Martin,5,2,3,5,3.0,,19,0,72,0.2638888888888889,0.0
+2023,Dutch GP,Max Verstappen,Red Bull,1,1,0,6,3.0,64.0,19,1,72,0.2638888888888889,0.013888888888888888
+2023,Dutch GP,Pierre Gasly,Alpine,12,3,9,5,2.0,,22,0,72,0.3055555555555556,0.0
+2023,Dutch GP,Sergio Perez,Red Bull,7,4,3,6,2.0,,23,0,72,0.3194444444444444,0.0
+2023,Monaco GP,Esteban Ocon,Alpine,3,3,0,2,55.0,,24,0,78,0.3076923076923077,0.0
+2023,Monaco GP,Fernando Alonso,Aston Martin,2,2,0,2,56.0,,23,0,78,0.2948717948717949,0.0
+2023,Monaco GP,George Russell,Mercedes,8,5,3,1,55.0,,24,0,78,0.3076923076923077,0.0
+2023,Monaco GP,Lando Norris,McLaren,10,9,1,2,55.0,,23,0,77,0.2987012987012987,0.0
+2023,Monaco GP,Lewis Hamilton,Mercedes,5,4,1,2,55.0,,24,0,78,0.3076923076923077,0.0
+2023,Monaco GP,Max Verstappen,Red Bull,1,1,0,1,56.0,,23,0,78,0.2948717948717949,0.0
+2024,British GP,Carlos Sainz,Ferrari,7,5,2,3,27.0,,13,0,52,0.25,0.0
+2024,British GP,Lando Norris,McLaren,3,3,0,2,28.0,,12,0,52,0.23076923076923078,0.0
+2024,British GP,Lewis Hamilton,Mercedes,1,1,0,2,28.0,,11,0,52,0.21153846153846154,0.0
+2024,British GP,Max Verstappen,Red Bull,4,2,2,2,27.0,,12,0,52,0.23076923076923078,0.0
+2024,British GP,Nico Hulkenberg,Haas,6,6,0,2,27.0,,13,0,52,0.25,0.0
+2024,British GP,Oscar Piastri,McLaren,5,4,1,2,29.0,,10,0,52,0.19230769230769232,0.0
