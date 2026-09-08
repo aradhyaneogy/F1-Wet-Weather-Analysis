@@ -109,15 +109,15 @@ f1-wet-weather-analysis/
 ├── sql/
 │   └── analysis_queries.sql
 ├── powerbi/
-│   └── F1_Wet_Weather_Analysis.pbix
+│   └── F1_Wet_Weather_Strategy_&_Performance_Analysis.pbix
 ├── data/
 │   ├── races_powerbi.csv
 │   └── strategy_powerbi.csv
-└── outputs/
-    ├── rainfall_vs_strategy.png
-    ├── rainfall_vs_position_change.png
-    ├── position_gains.png
-    └── top_driver_gains.png
+└── output/
+    ├── Largest_Position_Gains_in_Wet_Races.png
+    ├── Rain_Duration_vs_Average_Position_Changes.png
+    ├── Rainfall_Severity_vs_Intermediate_Tyre_Usage.png
+    └── Top_10_Position_Gains_in_Wet_Races.png
 ```
 ## Limitations
 
